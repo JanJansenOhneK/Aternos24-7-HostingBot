@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "jansenja.aternos.me:56218",
+    "ip": "jansenja.aternos.me",
     "port": 56218,
     "version": "",
     "try-creative": false
